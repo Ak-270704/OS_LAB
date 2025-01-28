@@ -16,3 +16,12 @@ This experiment demonstrates creating and managing directories and files:
 Creating a main directory Animal with subdirectories mammals and reptiles
 Creating files (cow.txt and lizard.txt) in the mammals directory with content about respective animals
 Moving lizard.txt from the mammals directory to the reptiles directory​.
+
+Experiment 3: Create a directory Vehicle. 
+In Vehicle create four directories with names Fourwheelers, Threewheelers, Twowheelers. 
+In Fourwheelers create directories Bus, Car, Truck. 
+In Threewheelers create directories Auto. 
+In Twowheelers create directories Cycle and Scooty. 
+In the Car directory, create files: Carbrand.txt, Busbrand.txt, Truckbrand.txt, Autocolor.txt, Cyclebrand.txt. 
+Write 2 lines in each file. Move each file to their respective directories. 
+Also, delete the Cycle directory finally.
