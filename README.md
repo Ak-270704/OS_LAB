@@ -25,3 +25,7 @@ In Twowheelers create directories Cycle and Scooty.
 In the Car directory, create files: Carbrand.txt, Busbrand.txt, Truckbrand.txt, Autocolor.txt, Cyclebrand.txt. 
 Write 2 lines in each file. Move each file to their respective directories. 
 Also, delete the Cycle directory finally.
+
+Experiment 4: Understanding the use of chmod command and vi txt editor.
+
+Experiment 5: If - Else statements in bash
