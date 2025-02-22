@@ -28,4 +28,6 @@ Also, delete the Cycle directory finally.
 
 Experiment 4: Understanding the use of chmod command and vi txt editor.
 
-Experiment 5: If - Else statements in bash
+Experiment 5: If - Else statements in bash.
+
+Experiment 6: For loop in shell programming.
